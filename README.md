@@ -1,4 +1,4 @@
-# Custom Memory allocator
+# Memory allocator
 
 MemoryAllocator is a simple memory allocator that implements `malloc()`, `calloc()`, `realloc()` and `free()`.
 
